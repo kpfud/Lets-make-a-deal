@@ -25,8 +25,6 @@ The application was developed as part of a class project and is fully functional
 2. Build the solution.
 3. Run the application to launch the interactive GUI.
 
-> Note: Make sure all required files (`Form1.cs`, `Form1.Designer.cs`, `Program.cs`, and `.resx`) are in the same directory and included in the project.
-
 ## License
 
 This project is provided for educational purposes.
